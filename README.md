@@ -1,6 +1,6 @@
 # Data Science Projects
 
-A collection of 64 data science and machine learning projects covering data analysis, visualization, statistical modeling, machine learning, deep learning, natural language processing, and time series forecasting. Each project is self-contained in its own directory with a Jupyter notebook and supporting datasets.
+This repository features a collection of 64 data science and machine learning projects covering data analysis, visualization, statistical modeling, machine learning, deep learning, natural language processing, and time series forecasting. Each project is entirely self-contained within its own directory, complete with a Jupyter notebook and all supporting datasets. The practical, hands-on knowledge applied throughout these projects was developed primarily through courses on DataCamp, as well as various specialized tutorials on YouTube.
 
 ## Technologies & Libraries
 
